@@ -2,8 +2,7 @@ import pygame
 import os
 import random
 pygame.init()
-k = 10
-a = k+1
+
 
 # Global Constants
 SCREEN_HEIGHT = 600
